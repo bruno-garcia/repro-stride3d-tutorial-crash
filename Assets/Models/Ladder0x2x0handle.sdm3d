@@ -1,0 +1,15 @@
+!Model
+Id: adccf3d6-53ee-4ee3-8454-fa051c34f30f
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/Models/Ladder0x2x0handle.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    2a4c62502d84612cd0bc56d6d0bc56d6:
+        Name: GridMT
+        MaterialInstance:
+            Material: f6b655c7-50a0-4e1a-8426-1ade31e95a88:Materials/GridMT
+Modifiers: {}
+~SourceHashes:
+    47a13c8f15a3f22c7123927240e8f443~../../Resources/Models/Ladder0x2x0handle.fbx: 170b48905407ded534d8b3034b225bab

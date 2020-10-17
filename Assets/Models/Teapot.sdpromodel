@@ -1,0 +1,11 @@
+!ProceduralModelAsset
+Id: 7257a058-a20c-4d8a-a85f-b86cf0d30f5d
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Type: !TeapotProceduralModel
+    Scale: {X: 1.0, Y: 1.0, Z: 1.0}
+    UvScale: {X: 1.0, Y: 1.0}
+    LocalOffset: {X: 0.0, Y: 0.0, Z: 0.0}
+    NumberOfTextureCoordinates: 10
+    MaterialInstance:
+        Material: 83f9e84c-0a9e-432f-af58-d45482a2f3da:Materials/Blue

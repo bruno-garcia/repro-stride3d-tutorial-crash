@@ -1,0 +1,7 @@
+!Texture
+Id: 7c6ce328-2a19-486c-8264-9be9d154355b
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/Stand/gum01_gls.dds
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}

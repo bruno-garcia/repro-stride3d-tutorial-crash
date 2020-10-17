@@ -1,0 +1,23 @@
+!Model
+Id: b46a9c74-dc1b-4070-84b1-08b6fe533426
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/Models/tableB.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    a3b76aad37d511efb4aea277b4aea277:
+        Name: partsA1
+        MaterialInstance:
+            Material: 097d7be6-818a-41e2-bb45-129efd33e8fb:Materials/board1B
+    c0d612c9f00932374c5a75564c5a7556:
+        Name: board1
+        MaterialInstance:
+            Material: 097d7be6-818a-41e2-bb45-129efd33e8fb:Materials/board1B
+    0303d2fe323802f6323802f6323802f6:
+        Name: pole
+        MaterialInstance:
+            Material: 097d7be6-818a-41e2-bb45-129efd33e8fb:Materials/board1B
+Modifiers: {}
+~SourceHashes:
+    fa4060df2706cec6164fcdcdc1596e5c~../../Resources/Models/tableB.fbx: f4739af3b3a5eee04b8f16c84110a638

@@ -1,0 +1,27 @@
+!Model
+Id: aec59dc5-6b6b-483d-9240-49f0a5675bd7
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/Models/SwordModel.fbx
+Skeleton: null
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    7b8394fb681bf353e28097d3e28097d3:
+        Name: glowMT
+        MaterialInstance:
+            Material: a55d9a71-05bc-4479-adff-49872952c70e:Materials/Emissive
+    b158ca41e15b46f8b2746c0a97fdd6ee:
+        Name: semiGlossMT
+        MaterialInstance:
+            Material: 991d8026-2adc-4acc-ab49-ef420870109f:Materials/BodyGray
+    932c8dfbd8c08c2e58a6732158a67321:
+        Name: bladeMT
+        MaterialInstance:
+            Material: 9b1700fa-d1e4-46b2-a7e6-f67e27fd01ba:Materials/Blade
+    98c4d20c91aa1618068f92bf068f92bf:
+        Name: glossMT
+        MaterialInstance:
+            Material: debb36b3-f180-427f-b467-3dacd2be26c5:Materials/BodyWhite
+Modifiers: {}
+~SourceHashes:
+    a825f13922f96967cbc2b16332c1cc84~../../Resources/Models/SwordModel.fbx: f21eb0d2f6563aa8f6a26b74477d96d5

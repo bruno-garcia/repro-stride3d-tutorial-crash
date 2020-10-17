@@ -1,0 +1,32 @@
+!Package
+SerializedVersion: {Assets: 3.1.0.0}
+Meta:
+    Name: CSharpBeginner.Game
+    Version: 1.0.0
+    Authors: []
+    Owners: []
+    RootNamespace: CSharpBasics
+    Dependencies: null
+AssetFolders:
+    -   Path: !dir ../Assets
+    -   Path: !dir Effects
+ResourceFolders:
+    - !dir ../Resources
+OutputGroupDirectories: {}
+ExplicitFolders: []
+Bundles: []
+TemplateFolders: []
+RootAssets:
+    - 1a465481-3926-4590-9536-97efda17bdf4:Scenes/Basics/Getting a component
+    - 1c39226a-5df5-420a-bed7-12fc59e3b6f7:Scenes/Basics/DeltaTime
+    - 34b1c9bf-68df-4b78-8894-dc31c2e66163:Scenes/Basics/Virtual buttons
+    - 3fc69ec9-b14f-4309-856a-a7db87664ea1:Scenes/Basics/Keyboard input
+    - 472ce72a-b444-4d58-84b9-e364f6c8c6d2:Scenes/Basics/Cloning entities
+    - 4a487d01-7338-4dce-a34d-5d6d004387f5:Scenes/Basics/Child entities
+    - 79af0b55-a70f-4c7a-8f5b-967d55661736:StrideUILibrary
+    - 7c0d889f-ac8e-4669-81e7-bbc85718d17d:Scenes/Basics/Adding a component
+    - 80c0fd50-de02-48cf-a247-943d626a3a48:Scenes/Basics/TransformPosition
+    - 817575cf-235d-4069-b862-7369e3b30249:Scenes/Basics/Getting the entity
+    - 9580ded5-de9d-4f26-8444-4ce0544db32a:Scenes/Basics/Mouse input
+    - ada167a8-4802-4577-81f0-890785f85b73:Scenes/Basics/Properties
+    - b17651b5-d5ca-4fd2-87ab-43b12420e734:Scenes/Basics/Removing entities

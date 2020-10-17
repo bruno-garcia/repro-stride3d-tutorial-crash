@@ -1,0 +1,8 @@
+!Texture
+Id: abcd1309-3815-4ed6-9d90-d503523c6008
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../Resources/Textures/CheckerGrid1x1.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
+    Alpha: None
